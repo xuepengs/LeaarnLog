@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"普通信息");
         Log.v(TAG,"无用信息");
         Log.w(TAG,"警告信息");
+        Log.w("MSG","错误");
     }
 }
